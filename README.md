@@ -1,14 +1,10 @@
 # Getting Started with Spring Cloud Data Flow
-A Spring Cloud Data Flow workshop on Kubernetes. 
+A Spring Cloud Data Flow workshop.
 
-1. The workshop is primarily geared towards the students who attend the [SCDF workshop at SpringOne 2020](https://springone.io/2020/workshops/spring-cloud-data-flow).
-2. Students will use the [Strigo](https://strigo.io/) platform to learn how to prepare the environment and exercise SCDF's feature capabilities on Kubernetes.
-3. Instructions: [![HackMD documents](https://hackmd.io/badge.svg)](https://hackmd.io/@sabbyanandan/B1bDf74fv)
+1. This workshop took place at the following event [SCDF workshop at SpringOne 2020](https://springone.io/2020/workshops/spring-cloud-data-flow).
+2. Instructions: [![HackMD documents](https://hackmd.io/badge.svg)](https://hackmd.io/@sabbyanandan/B1bDf74fv)
+3. Instructions: Instructions provided.  Follow instructor walk-through
 
-> Tip: It is possible to follow the instructions to repeat this workshop in an EC2 instance (image: `ami-03e97315b2269f290`;
-> region: `us-west-2`).
-
-> Tip: Alternatively, you can repeat using a Minikube/Kind cluster in your computer or against an external Kubernetes cluster.
 
 ## Applications
 1. [`trucks`](https://github.com/sabbyanandan/SpringOne2020/tree/master/thumbinator) — generates trucks in random interval
